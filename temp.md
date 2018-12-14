@@ -19,4 +19,5 @@
 
 Reference materials:
 1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-2. 
+2. https://blog.hubspot.com/marketing/professional-bio-examples
+3.
