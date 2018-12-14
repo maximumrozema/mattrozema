@@ -1,10 +1,10 @@
 # Matt Rozema
 
 *[Name] is a [title] who works with [who you help] to [how you help them].*
-#### Matt Rozema is a Computer Engineering Technologist who works with everyday computer users to address new problems and projects 
+#### Matt Rozema is an IT professional at Ambrose University and founder of MR Solutions. 
 
 *[First name] [knows/believes] [what you know/believe about the work you do].*
-#### Matt believes the work of an IT professional is continually changing to meet customers' needs and keep up with advancements in technology.
+#### Matt believes the work of an IT professional is continually changing to meet customers' needs and keep up with advancements in technology. As such it is important to keep current and 
 
 *[First name] has [landed/secured/garnered/worked at/supported] [insert your most compelling experiences and wins].*
 #### Matt has worked for the world-class companies IBM and SMART Technologies supporting several Canadian banks, retailers such as HBC and Forzani Group. Matt has also supported local doctors with their individual computer needs. In his current employement, he has successfully implemented company-wide printing solutions, phone system migration and designed AV presentation systems for all classrooms and the gymnasium. 
