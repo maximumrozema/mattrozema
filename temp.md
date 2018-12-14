@@ -14,3 +14,9 @@
 
 *[First name] holds a [insert degree] in [insert area of study] from [insert university].*
 #### Matt holds a diploma in Computer Engineering Technologist from SAIT Polytechnic in Calgary, Alberta, Canada.
+
+
+
+Reference materials:
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+2. 
