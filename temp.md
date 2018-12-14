@@ -1,4 +1,4 @@
-#Matt Rozema
+# Matt Rozema
 
 *[Name] is a [title] who works with [who you help] to [how you help them].*
 #### Matt Rozema is a Computer Engineering Technologist who works with everyday computer users to address new problems and projects 
