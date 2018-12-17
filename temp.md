@@ -1,23 +1,9 @@
 # Matt Rozema
 
-*[Name] is a [title] who works with [who you help] to [how you help them].*
-#### Matt Rozema is an IT professional at Ambrose University and founder of MR Solutions. 
+#### Matt Rozema is musician, father, IT professional at Ambrose University and independant consultant. He is always willing to help solve their IT whoes or design a solution that brings a new idea to life
 
-*[First name] [knows/believes] [what you know/believe about the work you do].*
-#### Matt believes the work of an IT professional is continually changing to meet customers' needs and keep up with advancements in technology. As such it is important to keep current and 
+#### Matt has worked for the world-class companies IBM and SMART Technologies supporting Canadian banks, retailers such as HBC and Forzani Group. Matt has also supported local doctors and private citizens with their individual technology needs. In his current employement, he has successfully implemented company-wide printing solutions, phone system migration and designed AV presentation systems for all classrooms and a gymnasium.
 
-*[First name] has [landed/secured/garnered/worked at/supported] [insert your most compelling experiences and wins].*
-#### Matt has worked for the world-class companies IBM and SMART Technologies supporting several Canadian banks, retailers such as HBC and Forzani Group. Matt has also supported local doctors with their individual computer needs. In his current employement, he has successfully implemented company-wide printing solutions, phone system migration and designed AV presentation systems for all classrooms and the gymnasium. 
+#### Matt has trained, mostly through on-the-job experience in the areas of computer hardware, software, Windows, MacOS and Linux operating systems, Windows and Linux servers, programming/scripting languages, networking, wifi design, printing systems, Crestron programming, HD-BaseT and Internet of Things. Matt also holds the CTI-P101 certification from Crestron Electronics.
 
-*[First name] is a [trained/certified/awarded] [insert relevant trainings, awards, honors, etc].*
-#### Matt
-
-*[First name] holds a [insert degree] in [insert area of study] from [insert university].*
-#### Matt holds a diploma in Computer Engineering Technologist from SAIT Polytechnic in Calgary, Alberta, Canada.
-
-
-
-Reference materials:
-1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-2. https://blog.hubspot.com/marketing/professional-bio-examples
-3.
+#### Matt holds a diploma in Computer Engineering Technology from SAIT Polytechnic in Calgary, Alberta, Canada.
